@@ -16,6 +16,7 @@ Feature Selection: Various feature selection methods were employed to reduce dim
   - Recursive Feature Elimination (RFE), Variance Threshold (VT), Random Forest, and Boruta.
   - These methods were tested individually and in combinations to optimize feature subsets.
 
+Machine learning models:  Support Vector Machine (SVM): A supervised learning algorithm used for classification tasks. Random Forest Classifier: An ensemble learning method that builds multiple decision trees and combines their outputs to improve classification accuracy. K-Nearest Neighbors (KNN): A classification algorithm that assigns class labels based on the majority vote of the k nearest neighbors.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Design Decisions
