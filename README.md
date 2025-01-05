@@ -44,6 +44,6 @@ The following dataframe is a required input for the computational platform:
 2. **[Imbalanced-learn](https://imbalanced-learn.org/)**  
    - For handling class imbalances using SMOTE.
 ## Contributors
-  - Ali Afifi
+  - Ali Magdi
   - Omar Loay
   - Ahmed Amr
