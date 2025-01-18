@@ -7,7 +7,7 @@ This project applies machine learning to classify antimicrobial peptides (AMPs),
 ## Installation
 
 ```bash
-git clone https://github.com/NonZeroExitAli/Evaluating-Antimicrobial-Peptides-Identification.git
+git clone https://github.com/NonZeroExitAli/Antimicrobial-Peptides-Identification.git
 ```
 
 ## Primary Scripts
