@@ -11,7 +11,7 @@ Antimicrobial peptides (AMPs) are promising alternatives to antibiotics. This pr
 - Classifying AMPs vs non-AMPs  
 - Predicting quantitative MIC values for *E. coli*, *S. aureus*, *P. aeruginosa*, and *K. pneumoniae*  
 - Deploying the best-performing models as a public web tool:  
-  https://nonzeroexit-epic-amp.static.hf.space/index.html
+  https://epic-amp-v2.vercel.app/
 
 ---
 
